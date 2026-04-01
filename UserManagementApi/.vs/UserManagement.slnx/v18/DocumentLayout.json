@@ -1,46 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\",
+  "WorkspaceRootPath": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:controller\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\project\\usermanagementapi\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|c:\\users\\paolo\\documents\\eastel\\usermanagement\\usermanagementproject\\usermanagementapi\\usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B6DE7AB0-ADAB-CC0D-886D-6DD4ACF47DB8}|UserManagementApi.csproj|solutionrelative:usermanagementapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,73 +54,63 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "LoginRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\LoginRequest.cs",
               "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\LoginRequest.cs",
               "RelativeToolTip": "Models\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T19:01:45.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserManagementApi.http",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\UserManagementApi.http",
-              "RelativeDocumentMoniker": "UserManagementApi.http",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\UserManagementApi.http",
-              "RelativeToolTip": "UserManagementApi.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-03-25T20:25:15.823Z",
+              "WhenOpened": "2026-03-31T19:01:45.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Controller\\UsersController.cs",
               "RelativeDocumentMoniker": "Controller\\UsersController.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Controller\\UsersController.cs",
               "RelativeToolTip": "Controller\\UsersController.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAqwFwAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAmwFwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T19:08:54.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T20:56:10.872Z"
+              "WhenOpened": "2026-03-24T20:56:10.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\User.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\User.cs",
               "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\User.cs",
               "RelativeToolTip": "Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-24T20:54:40.958Z"
+              "WhenOpened": "2026-03-24T20:54:40.958Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -129,36 +119,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAuwIgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-23T22:25:34.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Controller\\AuthController.cs",
               "RelativeDocumentMoniker": "Controller\\AuthController.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Controller\\AuthController.cs",
               "RelativeToolTip": "Controller\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowBQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T19:02:36.231Z"
+              "WhenOpened": "2026-03-31T19:02:36.231Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -167,15 +158,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\UserRequest.cs",
               "RelativeDocumentMoniker": "Models\\UserRequest.cs",
-              "ToolTip": "C:\\Users\\Paolo\\Documents\\Project\\UserManagementApi\\Models\\UserRequest.cs",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\Models\\UserRequest.cs",
               "RelativeToolTip": "Models\\UserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T20:58:44.654Z"
+              "WhenOpened": "2026-03-31T20:58:44.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserManagementApi.http",
+              "DocumentMoniker": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\UserManagementApi.http",
+              "RelativeDocumentMoniker": "UserManagementApi.http",
+              "ToolTip": "C:\\Users\\Paolo\\Documents\\Eastel\\UserManagement\\UserManagementProject\\UserManagementApi\\UserManagementApi.http",
+              "RelativeToolTip": "UserManagementApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-03-25T20:25:15.823Z"
             }
           ]
         }
