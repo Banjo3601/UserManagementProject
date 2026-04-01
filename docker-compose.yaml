@@ -1,0 +1,35 @@
+services:
+  postgres:
+    image: postgres:15
+    container_name: user_management_db
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: userdb
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d userdb"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: ./UserManagementApi
+      dockerfile: Dockerfile
+    container_name: user-management-api
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__DefaultConnection: Host=postgres;Port=5432;Database=userdb;Username=postgres;Password=postgres
+    ports:
+      - "5209:8080"
+
+volumes:
+  postgres_data:
